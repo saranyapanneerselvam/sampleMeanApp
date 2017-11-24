@@ -1,0 +1,8 @@
+{
+  "name":"sampleTask",
+  "dependencies":{
+    "angular":"*",
+    "angular-ui-router": "*"
+  }
+
+}
